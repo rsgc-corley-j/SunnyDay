@@ -23,7 +23,7 @@ canvas.drawShapesWithFill = true
 //canvas.drawEllipse(centreX: canvas.width / 2, centreY: canvas.height / 2 , width: 100, height: 100)
 
 //canvas.LineColor
-canvas.fillColor = Color.blue
+canvas.fillColor = Color(hue: 190, saturation: 100, brightness: 80, alpha: 100)
 
 canvas.drawRectangle(bottomLeftX: 0, bottomLeftY: 0, width: 500, height: 400)
 
